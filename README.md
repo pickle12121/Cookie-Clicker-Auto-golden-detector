@@ -1,0 +1,1 @@
+Cookie clicker Auto clicker also does image detection to find golden cookies. I can help u get some images for the cookies, the files don't contain it, so you need to add some stock img of the cookie into the py folder before running the code.
